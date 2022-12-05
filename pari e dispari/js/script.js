@@ -22,12 +22,12 @@ console.log("la somma è "+ somma);
 
 
    function SommaPariDispari(numero){
-    let num = '';
+    let num = "";
     if(numero % 2 === 0){
-        num = "pari"
+        num = "pari";
     }
     else{
-        num = "dispari"
+        num = "dispari";
     }
     return num;
    }
@@ -37,9 +37,9 @@ console.log("la somma è "+ somma);
    //6 - stampa risultato 
 // 6.1 - Se utente ha scelto pari e la somma è pari allora ha vinto 
  //ALTRIMENTI ha vinto il computer 
- if(pariDispari == "pari"){
+ if(pariDispari === "pari"){
     console.log("hai vinto")
- }else if(pariDispari == "dispari"){
+ }else if(pariDispari === "dispari"){
     console.log("hai perso")
  }
  else{

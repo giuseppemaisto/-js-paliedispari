@@ -11,5 +11,8 @@ console.log(parolaArray)
 let parolaReverse = parolaArray.reverse();
 console.log(parolaReverse);
 
+//2.3 - usare la funzione join per roportare l'arrey generato ad una stringa 
+let parolaStringa = parolaReverse.join()
+console.log(parolaStringa)
 
 }

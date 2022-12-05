@@ -10,3 +10,6 @@ function numeroCasuale(){
     let NumPc = Math.floor(Math.random() * 5)+1;
     return NumPc;
 }
+//4 - sommiamo i due numeri 
+// 4.1 - definiamo variabile somma 
+let somma = numUtente + numeroCasuale();

@@ -10,4 +10,4 @@ PROBLEMA PARI E DISPARI
     ALTRIMENTI è dispari 
 6 - stampa risultato 
  6.1 - Se utente ha scelto pari e la somma è pari allora ha vinto 
- ALTRIMENTI ha vinto il computer ì
+ ALTRIMENTI ha vinto il computer 
